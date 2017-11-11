@@ -1,0 +1,14 @@
+{
+  "name": "project-euler-typescript",
+  "version": "0.0.1",
+  "author": "Dominique Huber",
+  "devDependencies": {
+    "typescript": "^2.6.1"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/tsc --watch -p './tsconfig.json'"
+  },
+  "dependencies": {
+    "tslint": "^5.8.0"
+  }
+}
