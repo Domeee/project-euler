@@ -4,15 +4,15 @@
 
 ### TypeScript
 
-1. Install prerequisites
+Install prerequisites
 
 ```bash
 cd typescript
 npm intall
  ```
-1. Development mode with tsc --watch
+Development mode with tsc --watch
  ```bash
 npm start
  ```
 
-1. Run EulerTest.ts to get the results
+Run EulerTest.ts to get the results
