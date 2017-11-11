@@ -1,4 +1,4 @@
-import { EulerProblem } from './EulerProblem';
+import EulerProblem from './EulerProblem';
 
 export default class implements EulerProblem {
   getResult(): number {

@@ -1,3 +1,3 @@
-export interface EulerProblem {
+export default interface EulerProblem {
   getResult(): number;
-}
+};
