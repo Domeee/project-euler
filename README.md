@@ -8,11 +8,19 @@ Install prerequisites
 
 ```bash
 cd typescript
-npm intall
+npm install
  ```
-Development mode with tsc --watch
+Development mode
  ```bash
+tsc --watch
 npm start
  ```
 
-Run EulerTest.ts to get the results
+Run EulerTest.ts (with vscode debugger) to get the results
+
+### F#
+
+```bash
+cd fsharp
+fsharpi 001.fsx
+ ```
